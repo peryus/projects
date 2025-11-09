@@ -1,0 +1,46 @@
+h1 {
+  background-color: lightblue;
+}
+
+.green-text {
+  background-color: lightgreen;
+}
+
+#unique {
+  background-color: lightcoral;
+}
+
+button[type="submit"] {
+  background-color: lightyellow;
+}
+
+div p {
+  background-color: plum;
+}
+
+ul > li {
+  background-color: khaki;
+}
+
+section article p {
+  background-color: lightpink;
+}
+
+p.special {
+  background-color: lightgray;
+}
+
+.box .text {
+  background-color: lightseagreen;
+  color: white;
+}
+
+p.final#finish {
+  background-color: lightsteelblue;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  line-height: 1.6;
+}
