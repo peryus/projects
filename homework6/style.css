@@ -1,0 +1,132 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: white;
+}
+
+.mond7x7 {
+  width: 290px;
+  height: 290px;
+  border: 3px solid black;
+  background: #000000;
+}
+
+.mond7x7 td {
+  border: 2px solid black;
+  padding: 0;
+
+}
+td.white1 {
+  background-color: white;
+  width: 60px;
+  height: 30px;
+}
+td.white3 {
+  background-color: white;
+  width: 90px;
+  height: 30px;
+}
+
+td.white5 {
+  background-color: gold;
+  width: 80px;
+  height: 30px;
+}
+td.white7 {
+  background-color: white;
+  width: 10px;
+  height: 180px;
+}
+td.white8 {
+  background-color: white;
+  width: 30px;
+  height: 60px;
+}
+td.white9 {
+  background-color: red;
+  width: 120px;
+  height: 120px;
+}
+
+td.white12 {
+  background-color: gold;
+  width: 80px;
+  height: 60px;
+}
+
+td.white15 {
+  background-color: white;
+  width: 30px;
+  height: 90px;
+}
+
+td.white19 {
+  background-color: white;
+  width: 40px;
+  height: 60px;
+}
+td.white20 {
+  background-color: white;
+  width: 40px;
+  height: 60px;
+}
+
+td.white23 {
+  background-color: black;
+  width: 60px;
+  height: 60px;
+}
+
+td.white25 {
+  background-color: white;
+  width: 60px;
+  height: 30px;
+}
+td.white26 {
+  background-color: white;
+  width: 80px;
+  height: 30px;
+}
+
+td.white29 {
+  background-color: gold;
+  width: 30px;
+  height: 60px;
+}
+
+td.white32 {
+  background-color: white;
+  width: 60px;
+  height: 30px;
+}
+td.white33 {
+  background-color: blue;
+  width: 80px;
+  height: 50px;
+}
+
+td.white35 {
+  background-color: red;
+  width: 10px;
+  height: 60px;
+}
+
+td.white37 {
+  background-color: white;
+  width: 60px;
+  height: 30px;
+}
+
+td.white39 {
+  background-color: black;
+  width: 60px;
+  height: 20px;
+}
+
+td.white46 {
+  background-color: white;
+  width: 140px;
+  height: 10px;
+}
