@@ -5,61 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="054d6bb3-9be4-4868-8cee-d52796968b2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework6/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework1/338-1733217432633.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework2/images/AlhambraPlace.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework2/images/Tarrega.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework2/images/guitar2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework2/images/guitar3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework2/images/guitar4.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework2/images/guitar5.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework2/images/guitar6.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework2/images/guitar_g1.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework2/images/guitar_g2.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework2/images/guitar_g3.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework2/images/guitar_g4.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework2/images/guitar_g5.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework2/images/guitar_g6.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework2/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework2/pages/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework2/pages/articles.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework2/pages/contacts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework2/pages/gallery.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework2/pages/purchase.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/images/AlhambraPlace.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/images/Tarrega.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/images/alhambramain.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/images/alhambramain2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/images/guitar2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/images/guitar3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/images/guitar4.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/images/guitar5.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/images/guitar6.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/images/guitar_g1.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/images/guitar_g2.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/images/guitar_g3.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/images/guitar_g4.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/images/guitar_g5.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/images/guitar_g6.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/images/icons/facebook.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/images/icons/instagram.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/images/icons/youtube.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/pages/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/pages/articles.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/pages/contacts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/pages/gallery.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework3/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework4/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework4/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework4/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework4/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework6/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/homework6" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -88,24 +36,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Rebasing main",
-    "last_opened_file_path": "/Users/stanislav/projects",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/stanislav/projects&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -133,6 +81,9 @@
       <workItem from="1762957743431" duration="11918000" />
       <workItem from="1762973584343" duration="3593000" />
       <workItem from="1762983998676" duration="584000" />
+      <workItem from="1762984965856" duration="83000" />
+      <workItem from="1762985119665" duration="150000" />
+      <workItem from="1762985736066" duration="239000" />
     </task>
     <servers />
   </component>

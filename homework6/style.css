@@ -7,8 +7,9 @@ body {
 }
 
 .mond7x7 {
-  width: 290px;
-  height: 290px;
+  width: 100%;
+  max-width: 290px;
+
   border: 3px solid black;
   background: #000000;
 }
