@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.menu {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  background: #fff;
+  height: 60px;
+  align-items: center;
+  padding: 0 20px;
+  z-index: 1000;
+}
+
+.menu ul {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #333;
+  padding: 6px 10px;
+  border: 1px solid #333;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+.main {
+  padding-top: 150px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
