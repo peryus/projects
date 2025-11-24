@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="054d6bb3-9be4-4868-8cee-d52796968b2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/homework10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework10/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework9/fonts/Roboto-VariableFont_wdth,wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework9/images/img.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework9/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework6/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -43,7 +51,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/stanislav/projects&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/stanislav/projects/homework9/images&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -55,6 +63,10 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homework9/images" />
+      <recent name="$PROJECT_DIR$/homework9/fonts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/homework7" />
     </key>
@@ -100,7 +112,11 @@
       <workItem from="1763394330768" duration="1014000" />
       <workItem from="1763568147666" duration="3074000" />
       <workItem from="1763573596499" duration="4910000" />
-      <workItem from="1763579032038" duration="416000" />
+      <workItem from="1763579032038" duration="975000" />
+      <workItem from="1763819430829" duration="7489000" />
+      <workItem from="1763898726684" duration="3608000" />
+      <workItem from="1763938182243" duration="1568000" />
+      <workItem from="1763941752176" duration="400000" />
     </task>
     <servers />
   </component>
