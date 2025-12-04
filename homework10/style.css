@@ -156,6 +156,7 @@ section.how-i-work .container .work-text {
 
 
 @media (max-width: 480px) {
+
   .novigation {
     padding-block: 40px;
   }
@@ -165,14 +166,13 @@ section.how-i-work .container .work-text {
     gap: 20px;
     text-align: center;
     padding-top: 10px;
-
-
   }
 
   .menu li a {
     font-size: 14px;
   }
-  
+
+
   header {
     padding-bottom: 60px;
   }
@@ -210,14 +210,18 @@ section.how-i-work .container .work-text {
   section.projects .my-projects {
     flex-direction: column;
     align-items: center;
-    gap: 20px;
+    gap: 30px;
   }
 
   section.projects .my-projects li {
-    width: 100%;
-    max-width: 300px;
-    height: auto;
-    padding: 15px 0 15px 70px;
+    width: 260px;
+    height: 50px;
+    list-style: none;
+    background-image: url("./images/img.svg");
+    background-repeat: no-repeat;
+    background-size: 36px 36px;
+    background-position: 10px center;
+    padding-left: 60px;
   }
 
   section.how-i-work .container h2 {
@@ -231,13 +235,6 @@ section.how-i-work .container .work-text {
   .footer .author {
     font-size: 18px;
   }
-}
-section.projects .my-projects {
-  flex-wrap: wrap;
-}
-
-section.projects .my-projects li {
-  max-width: 100%;
 }
 
 

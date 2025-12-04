@@ -1,0 +1,270 @@
+@import 'variables';
+@import 'header';
+@import 'footer';
+@import 'mixins';
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../../assets/fonts/Roboto-VariableFont_wdth,wght.ttf") format("opentype");
+}
+
+* {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.primery-back-middle {
+  background-color: #EEEFF1;
+}
+
+.container {
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.novigation {
+  padding-block: 79px;
+  letter-spacing: 1px;
+}
+
+.page-title {
+  padding-top: 83px;
+  padding-bottom: 60px;
+}
+
+.page-title h1 {
+  font-size: 45px;
+}
+
+.welcome-text {
+  font-size: 16px;
+  color: #727272;
+  max-width: 540px;
+  width: 100%;
+  padding-bottom: 65px;
+}
+
+.write-me {
+  padding: 25px 41px 17px 41px;
+  background-color: #34547A;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 16px;
+}
+
+header {
+  padding-bottom: 141px;
+}
+
+section.about-me {
+  background-color: #F9F9F9;
+}
+
+section.about-me .container {
+  padding-block: 112px 100px;
+  text-align: center;
+}
+
+section.about-me .container h2 {
+  font-size: 32px;
+  padding-bottom: 50px;
+}
+
+section.about-me .container .about-text {
+  max-width: 540px;
+  margin: 0 auto;
+  line-height: 164%;
+  color: #727272;
+}
+
+.dark {
+  background-color: #34547A;
+}
+
+section.projects {
+  padding-block: 100px;
+}
+
+section.projects .my-projects {
+  color: white;
+  display: flex;
+  gap: 49px;
+  padding-bottom: 32px;
+}
+
+section.projects .my-projects li {
+  list-style: none;
+  width: 141px;
+  height: 50px;
+  background-image: url("../../assets/images/img.svg");
+  background-repeat: no-repeat;
+  background-position: left center;
+  padding-left: 70px;
+}
+
+section.projects .my-projects li span {
+  font-size: 21px;
+}
+
+section.how-i-work .container {
+  padding-block: 100px;
+  text-align: center;
+}
+
+section.how-i-work .container h2 {
+  font-size: 32px;
+  padding-bottom: 50px;
+}
+
+section.how-i-work .container .work-text {
+  max-width: 540px;
+  margin: 0 auto;
+  line-height: 164%;
+  color: #727272;
+  padding-bottom: 57px;
+}
+
+.working-video {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
+.footer {
+  padding-block: 50px;
+  color: white;
+}
+
+.footer .author {
+  font-size: 21px;
+  padding-bottom: 20px;
+}
+
+.footer .copyright {
+  font-size: 13px;
+}
+
+@include media480 {
+  .novigation {
+    padding-block: 40px;
+  }
+
+  .menu {
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+    padding-top: 10px;
+
+    li {
+      a {
+        font-size: 14px;
+      }
+    }
+  }
+
+  header {
+    padding-bottom: 60px;
+  }
+
+  .page-title {
+    padding-top: 40px;
+    padding-bottom: 30px;
+
+    h1 {
+      font-size: 28px;
+      line-height: 1.2;
+    }
+  }
+
+  .welcome-text {
+    font-size: 14px;
+    padding-bottom: 40px;
+  }
+
+  .write-me {
+    width: 100%;
+    padding: 18px 0;
+    text-align: center;
+    font-size: 14px;
+  }
+
+  section.about-me {
+    .container {
+      padding-block: 60px 50px;
+
+      h2 {
+        font-size: 26px;
+      }
+    }
+  }
+
+  section.projects {
+    .my-projects {
+      flex-direction: column;
+      align-items: center;
+      gap: 30px;
+
+      li {
+        width: 260px;
+        height: 50px;
+        list-style: none;
+        background-image: url("../../assets/images/img.svg");
+        background-repeat: no-repeat;
+        background-size: 36px 36px;
+        background-position: 10px center;
+        padding-left: 60px;
+      }
+    }
+  }
+
+  section.how-i-work {
+    .container {
+      h2 {
+        font-size: 26px;
+      }
+    }
+  }
+
+  .footer {
+    text-align: center;
+
+    .author {
+      font-size: 18px;
+    }
+  }
+}
+
+@include media768 {
+  .menu {
+    gap: 25px;
+  }
+
+  .page-title {
+    h1 {
+      font-size: 36px;
+    }
+  }
+
+  .welcome-text {
+    font-size: 15px;
+  }
+
+  section.projects {
+    .my-projects {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
+}
+
+@include media1024 {
+  .menu {
+    gap: 30px;
+  }
+}

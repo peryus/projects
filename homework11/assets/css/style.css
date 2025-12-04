@@ -1,0 +1,307 @@
+header{
+  padding-bottom:141px;
+  background-color:#EEEFF1;
+}
+header .novigation{
+  padding-block:79px;
+  letter-spacing:1px;
+}
+header .menu{
+  display:-webkit-box;
+  display:-ms-flexbox;
+  display:flex;
+  gap:48px;
+}
+header .menu li{
+  list-style:none;
+}
+header .menu li a{
+  font-size:16px;
+  text-transform:uppercase;
+  text-decoration:none;
+  color:black;
+}
+header .menu li a:hover{
+  color:#34547A;
+}
+header .page-title{
+  padding-top:83px;
+  padding-bottom:60px;
+}
+header .page-title h1{
+  font-size:45px;
+}
+header .welcome-text{
+  font-size:16px;
+  color:#727272;
+  max-width:540px;
+  padding-bottom:65px;
+}
+header .write-me{
+  padding:25px 41px 17px;
+  background-color:#34547A;
+  color:white;
+  letter-spacing:3px;
+  text-transform:uppercase;
+  font-size:16px;
+}
+
+.footer{
+  padding-block:50px;
+  color:white;
+}
+.footer .author{
+  font-size:21px;
+  padding-bottom:20px;
+}
+.footer .copyright{
+  font-size:13px;
+}
+
+@font-face{
+  font-family:"Roboto";
+  font-style:normal;
+  font-weight:400;
+  src:url("../../assets/fonts/Roboto-VariableFont_wdth,wght.ttf") format("opentype");
+}
+*{
+  font-family:"Roboto", sans-serif;
+  margin:0;
+  padding:0;
+  -webkit-box-sizing:border-box;
+          box-sizing:border-box;
+}
+
+.primery-back-middle{
+  background-color:#EEEFF1;
+}
+
+.container{
+  width:100%;
+  max-width:1024px;
+  margin:0 auto;
+  padding:0 15px;
+}
+
+.novigation{
+  padding-block:79px;
+  letter-spacing:1px;
+}
+
+.page-title{
+  padding-top:83px;
+  padding-bottom:60px;
+}
+
+.page-title h1{
+  font-size:45px;
+}
+
+.welcome-text{
+  font-size:16px;
+  color:#727272;
+  max-width:540px;
+  width:100%;
+  padding-bottom:65px;
+}
+
+.write-me{
+  padding:25px 41px 17px 41px;
+  background-color:#34547A;
+  color:white;
+  text-transform:uppercase;
+  letter-spacing:3px;
+  font-size:16px;
+}
+
+header{
+  padding-bottom:141px;
+}
+
+section.about-me{
+  background-color:#F9F9F9;
+}
+
+section.about-me .container{
+  padding-block:112px 100px;
+  text-align:center;
+}
+
+section.about-me .container h2{
+  font-size:32px;
+  padding-bottom:50px;
+}
+
+section.about-me .container .about-text{
+  max-width:540px;
+  margin:0 auto;
+  line-height:164%;
+  color:#727272;
+}
+
+.dark{
+  background-color:#34547A;
+}
+
+section.projects{
+  padding-block:100px;
+}
+
+section.projects .my-projects{
+  color:white;
+  display:-webkit-box;
+  display:-ms-flexbox;
+  display:flex;
+  gap:49px;
+  padding-bottom:32px;
+}
+
+section.projects .my-projects li{
+  list-style:none;
+  width:141px;
+  height:50px;
+  background-image:url(../images/img.svg);
+  background-repeat:no-repeat;
+  background-position:left center;
+  padding-left:70px;
+}
+
+section.projects .my-projects li span{
+  font-size:21px;
+}
+
+section.how-i-work .container{
+  padding-block:100px;
+  text-align:center;
+}
+
+section.how-i-work .container h2{
+  font-size:32px;
+  padding-bottom:50px;
+}
+
+section.how-i-work .container .work-text{
+  max-width:540px;
+  margin:0 auto;
+  line-height:164%;
+  color:#727272;
+  padding-bottom:57px;
+}
+
+.working-video{
+  width:100%;
+  aspect-ratio:16/9;
+}
+
+.footer{
+  padding-block:50px;
+  color:white;
+}
+
+.footer .author{
+  font-size:21px;
+  padding-bottom:20px;
+}
+
+.footer .copyright{
+  font-size:13px;
+}
+
+@media (max-width: 1024px){
+  .menu{
+    gap:30px;
+  }
+}
+
+@media (max-width: 768px){
+  .menu{
+    gap:25px;
+  }
+  .page-title h1{
+    font-size:36px;
+  }
+  .welcome-text{
+    font-size:15px;
+  }
+  section.projects .my-projects{
+    -ms-flex-wrap:wrap;
+        flex-wrap:wrap;
+    -webkit-box-pack:center;
+        -ms-flex-pack:center;
+            justify-content:center;
+  }
+}
+
+@media (max-width: 480px){
+  .novigation{
+    padding-block:40px;
+  }
+  .menu{
+    -webkit-box-orient:vertical;
+    -webkit-box-direction:normal;
+        -ms-flex-direction:column;
+            flex-direction:column;
+    gap:20px;
+    text-align:center;
+    padding-top:10px;
+  }
+  .menu li a{
+    font-size:14px;
+  }
+  header{
+    padding-bottom:60px;
+  }
+  .page-title{
+    padding-top:40px;
+    padding-bottom:30px;
+  }
+  .page-title h1{
+    font-size:28px;
+    line-height:1.2;
+  }
+  .welcome-text{
+    font-size:14px;
+    padding-bottom:40px;
+  }
+  .write-me{
+    width:100%;
+    padding:18px 0;
+    text-align:center;
+    font-size:14px;
+  }
+  section.about-me .container{
+    padding-block:60px 50px;
+  }
+  section.about-me .container h2{
+    font-size:26px;
+  }
+  section.projects .my-projects{
+    -webkit-box-orient:vertical;
+    -webkit-box-direction:normal;
+        -ms-flex-direction:column;
+            flex-direction:column;
+    -webkit-box-align:center;
+        -ms-flex-align:center;
+            align-items:center;
+    gap:30px;
+  }
+  section.projects .my-projects li{
+    width:260px;
+    height:50px;
+    list-style:none;
+    background-image:url(../images/img.svg);
+    background-repeat:no-repeat;
+    background-size:36px 36px;
+    background-position:10px center;
+    padding-left:60px;
+  }
+  section.how-i-work .container h2{
+    font-size:26px;
+  }
+  .footer{
+    text-align:center;
+  }
+  .footer .author{
+    font-size:18px;
+  }
+}
