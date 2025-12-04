@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework6/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +66,7 @@
       <recent name="$PROJECT_DIR$/homework9/fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fonts" />
       <recent name="$PROJECT_DIR$/homework11/assets" />
       <recent name="$PROJECT_DIR$/homework11/src" />
       <recent name="$PROJECT_DIR$/homework7" />
@@ -125,7 +127,8 @@
       <workItem from="1764869046458" duration="351000" />
       <workItem from="1764869609700" duration="17000" />
       <workItem from="1764871415975" duration="1159000" />
-      <workItem from="1764875383329" duration="682000" />
+      <workItem from="1764875383329" duration="1620000" />
+      <workItem from="1764886559382" duration="328000" />
     </task>
     <servers />
   </component>
