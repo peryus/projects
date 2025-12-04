@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="054d6bb3-9be4-4868-8cee-d52796968b2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework11/assets/fonts/Roboto-VariableFont_wdth,wght.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework11/assets/images/img.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework11/csscomb.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework11/gitignore.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework11/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework11/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework11/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework11/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework11/src/scss/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework11/src/scss/_header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework11/src/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework11/src/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework11/src/scss/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework10/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework10/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework10/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework6/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,6 +122,7 @@
       <workItem from="1764802337098" duration="40000" />
       <workItem from="1764802948715" duration="7800000" />
       <workItem from="1764853783330" duration="8478000" />
+      <workItem from="1764869046458" duration="351000" />
     </task>
     <servers />
   </component>
