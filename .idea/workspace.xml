@@ -5,9 +5,172 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="054d6bb3-9be4-4868-8cee-d52796968b2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/homework12/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework13/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework13/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework14/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework15/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/acorn" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/acorn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/autoprefixer" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/autoprefixer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/browser-sync" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/browser-sync" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/browserslist" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/browserslist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/color-support" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/color-support" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/csscomb" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/csscomb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/cssesc" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/cssesc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/detect-libc" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/detect-libc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/dev-ip" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/dev-ip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/eslint" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/eslint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/gonzales" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/gonzales" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/gulp" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/gulp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/js-yaml" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/js-yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/mime" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/mime" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/mqpacker" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/mqpacker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/nanoid" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/nanoid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/node-which" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/node-which" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/resolve" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/resolve" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/sass" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/svgo" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/svgo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/throttleproxy" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/throttleproxy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/ua-parser-js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/ua-parser-js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/update-browserslist-db" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/update-browserslist-db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/.bin/yaml" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/.bin/yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/@babel/parser/bin/babel-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/@babel/parser/bin/babel-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/@types/cookie/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/@types/cookie/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/@types/cookie/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/@types/cookie/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/@types/cookie/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/@types/cookie/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/@types/cookie/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/@types/cookie/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/acorn/bin/acorn" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/acorn/bin/acorn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/arr-diff/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/arr-diff/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/arr-diff/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/arr-diff/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/arr-diff/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/arr-diff/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/arr-diff/node_modules/array-slice/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/arr-diff/node_modules/array-slice/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/arr-diff/node_modules/array-slice/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/arr-diff/node_modules/array-slice/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/arr-diff/node_modules/array-slice/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/arr-diff/node_modules/array-slice/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/arr-flatten/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/arr-flatten/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/arr-flatten/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/arr-flatten/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/array-slice/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/array-slice/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/array-slice/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/array-slice/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/autoprefixer/bin/autoprefixer" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/autoprefixer/bin/autoprefixer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/lib/plugins/remote-debug/css/pesticide-depth.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/lib/plugins/remote-debug/css/pesticide-depth.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/lib/plugins/remote-debug/css/pesticide.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/lib/plugins/remote-debug/css/pesticide.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/lib/plugins/remote-debug/css/pesticide.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/lib/plugins/remote-debug/css/pesticide.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/lib/plugins/remote-debug/overlay-grid/css/grid-overlay-horizontal.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/lib/plugins/remote-debug/overlay-grid/css/grid-overlay-horizontal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/lib/plugins/remote-debug/overlay-grid/css/grid-overlay-vertical.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/lib/plugins/remote-debug/overlay-grid/css/grid-overlay-vertical.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/css/core.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/css/core.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-bold-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-bold-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-bold-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-bold-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-bold-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-bold-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-bold-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-bold-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-bold-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-bold-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-it-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-it-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-it-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-it-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-it-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-it-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-it-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-it-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-it-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-it-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-regular-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-regular-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-regular-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-regular-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-regular-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-regular-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-regular-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-regular-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-regular-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync-ui/public/fonts/source-sans/sourcesanspro-regular-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync/certs/gen.sh" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync/certs/gen.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browser-sync/dist/bin.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browser-sync/dist/bin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/browserslist/cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/browserslist/cli.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/color-support/bin.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/color-support/bin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/css-mqpacker/bin/mqpacker.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/css-mqpacker/bin/mqpacker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/css-tree/lib/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/css-tree/lib/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/csscomb/bin/csscomb" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/csscomb/bin/csscomb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/cssesc/bin/cssesc" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/cssesc/bin/cssesc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/csso/node_modules/css-tree/lib/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/csso/node_modules/css-tree/lib/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/detect-libc/bin/detect-libc.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/detect-libc/bin/detect-libc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/dev-ip/lib/dev-ip.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/dev-ip/lib/dev-ip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/easy-extender/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/easy-extender/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/eazy-logger/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/eazy-logger/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/eslint/bin/eslint.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/eslint/bin/eslint.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/esrecurse/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/esrecurse/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/fsevents/fsevents.node" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/fsevents/fsevents.node" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/glob-stream/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/glob-stream/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/global-prefix/node_modules/.bin/which" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/global-prefix/node_modules/.bin/which" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/global-prefix/node_modules/which/bin/which" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/global-prefix/node_modules/which/bin/which" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/gonzales-pe/bin/generate-tests.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/gonzales-pe/bin/generate-tests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/gonzales-pe/bin/gonzales.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/gonzales-pe/bin/gonzales.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/gulp-cli/bin/gulp.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/gulp-cli/bin/gulp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/gulp-pug/node_modules/arr-diff/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/gulp-pug/node_modules/arr-diff/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/gulp-sass/node_modules/arr-diff/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/gulp-sass/node_modules/arr-diff/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/gulp/bin/gulp.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/gulp/bin/gulp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/is-expression/node_modules/.bin/acorn" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/is-expression/node_modules/.bin/acorn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/is-expression/node_modules/acorn/bin/acorn" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/is-expression/node_modules/acorn/bin/acorn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/js-yaml/bin/js-yaml.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/js-yaml/bin/js-yaml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/micromatch/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/micromatch/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/mime/cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/mime/cli.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/mime/src/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/mime/src/build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/nanoid/bin/nanoid.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/nanoid/bin/nanoid.cjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/node-addon-api/tools/conversion.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/node-addon-api/tools/conversion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/node-uuid/benchmark/bench.sh" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/node-uuid/benchmark/bench.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/opn/xdg-open" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/opn/xdg-open" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/postcss/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/postcss/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/resolve/bin/resolve" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/resolve/bin/resolve" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/sass/sass.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/sass/sass.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/semver/bin/semver.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/semver/bin/semver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/stream-throttle/bin/throttleproxy.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/stream-throttle/bin/throttleproxy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/svgo/bin/svgo" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/svgo/bin/svgo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/ua-parser-js/script/cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/ua-parser-js/script/cli.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/ua-parser-js/src/ua-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/ua-parser-js/src/ua-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/update-browserslist-db/cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/update-browserslist-db/cli.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/es5/uri.all.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/es5/uri.all.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/es5/uri.all.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/es5/uri.all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/es5/uri.all.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/es5/uri.all.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/es5/uri.all.min.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/es5/uri.all.min.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/es5/uri.all.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/es5/uri.all.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/es5/uri.all.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/es5/uri.all.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/index.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/index.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/regexps-iri.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/regexps-iri.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/regexps-iri.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/regexps-iri.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/regexps-iri.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/regexps-iri.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/regexps-uri.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/regexps-uri.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/regexps-uri.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/regexps-uri.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/regexps-uri.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/regexps-uri.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/http.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/http.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/http.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/http.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/http.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/http.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/https.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/https.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/https.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/https.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/https.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/https.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/mailto.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/mailto.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/mailto.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/mailto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/mailto.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/mailto.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/urn-uuid.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/urn-uuid.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/urn-uuid.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/urn-uuid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/urn-uuid.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/urn-uuid.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/urn.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/urn.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/urn.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/urn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/urn.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/urn.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/ws.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/ws.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/ws.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/ws.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/ws.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/ws.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/wss.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/wss.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/wss.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/wss.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/wss.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/schemes/wss.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/uri.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/uri.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/uri.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/uri.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/uri.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/uri.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/util.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/util.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/util.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/dist/esnext/util.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/uri-js/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/uri-js/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/which/bin/node-which" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/which/bin/node-which" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/wrap-ansi/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/wrap-ansi/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/node_modules/yaml/bin.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/node_modules/yaml/bin.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework6/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,11 +180,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="SCSS File" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,14 +212,14 @@
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/stanislav/projects/homework11&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;SCSS&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/stanislav/projects&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -125,7 +291,11 @@
       <workItem from="1764869046458" duration="351000" />
       <workItem from="1764869609700" duration="17000" />
       <workItem from="1764871415975" duration="1159000" />
-      <workItem from="1764875383329" duration="682000" />
+      <workItem from="1764875383329" duration="1620000" />
+      <workItem from="1765042586228" duration="231000" />
+      <workItem from="1765111568285" duration="12358000" />
+      <workItem from="1765197997774" duration="3087000" />
+      <workItem from="1765201103773" duration="6163000" />
     </task>
     <servers />
   </component>

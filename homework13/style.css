@@ -1,0 +1,139 @@
+body {
+  background: #ffffff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  margin-top: 40px;
+  margin-bottom: 90px;
+}
+
+.square {
+  fill: #ffbe00;
+  stroke: #fb8500;
+  stroke-width: 5;
+}
+
+.rect {
+  fill: #3dcd9b;
+  stroke: #f8b1b1;
+  stroke-width: 5;
+}
+
+.circle {
+  fill: #3478f6;
+  stroke: #8338ec;
+  stroke-width: 5;
+}
+
+.ellipse {
+  fill: #ff0000;
+  stroke: #ffbe00;
+  stroke-width: 5;
+}
+
+
+.dvd-box {
+  width: 1000px;
+  height: 500px;
+  position: relative;
+  overflow: hidden;
+  border: 0 solid transparent;
+  transition: border 0.3s ease;
+  background: #000000;
+}
+
+.dvd-box:hover .frame rect {
+  stroke: #ff0000;
+}
+
+.dvd {
+  width: 100px;
+  color: white;
+  position: absolute;
+  animation: none;
+  transition: transform 0.3s ease;
+}
+
+
+@keyframes dvdSmooth {
+  0% {
+    left: 500px;
+    top: 250px;
+    fill: white;
+  }
+
+
+  10% {
+    left: 800px;
+    top: 450px;
+    fill: #f8b1b1;
+  }
+
+  20% {
+    left: 900px;
+    top: 250px;
+    fill: #b1f8bf;
+  }
+
+  30% {
+    left: 600px;
+    top: 0px;
+    fill: #b1f8c5;
+  }
+
+  40% {
+    left: 0px;
+    top: 300px;
+    fill: #f1ea68;
+  }
+
+  50% {
+    left: 900px;
+    top: 450px;
+    fill: #3dcd9b;
+  }
+
+  60% {
+    left: 750px;
+    top: 0px;
+    fill: #f63434;
+  }
+
+  70% {
+    left: 300px;
+    top: 450px;
+    fill: #3478f6;
+  }
+
+  80% {
+    left: 0px;
+    top: 200px;
+    fill: #ffffff;
+  }
+
+  90% {
+    left: 200px;
+    top: 0px;
+    fill: #f47979;
+  }
+
+  100% {
+    left: 500px;
+    top: 250px;
+    fill: white;
+  }
+}
+
+.dvd-box:hover .dvd {
+  animation: dvdSmooth 60s linear infinite;
+}
