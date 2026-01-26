@@ -5,48 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d6a96de-9b07-47b2-9930-ca7c84fda3da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/icons/2x2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/icons/3x3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/icons/Vector.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/icons/call.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/icons/close.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/icons/delivery.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/icons/facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/icons/horiz.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/icons/instagram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/icons/lock.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/icons/money.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/icons/sale.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/icons/search 02.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/icons/shoppingbag.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/icons/vert.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/icons/youtube.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/items/bamboobasket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/items/beigetablelamp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/items/cozysofa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/items/loveseatsofa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/items/off_whitepillow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/items/tablelamp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/items/whitedr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/site/7ways.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/site/bedroom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/site/chair.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/site/decor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/site/footersjoin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/site/hero.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/site/hunders.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/site/kitchen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/site/kitchenorg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/site/livingroom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/assets/images/site/shophero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/pages/shop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/pages/sign.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework17/src/input.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework21/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework21/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework21/script-2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework17/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework17/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework20/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework20/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework21/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework21/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework21/main.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/homework6/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +47,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/stanislav/projects/homework17/assets/images/site",
+    "last_opened_file_path": "/Users/stanislav/projects/homework21",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -96,11 +58,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homework21" />
       <recent name="$PROJECT_DIR$/homework17/assets/images/site" />
       <recent name="$PROJECT_DIR$/homework17/assets/images/items" />
       <recent name="$PROJECT_DIR$/homework17/assets/images/icons" />
       <recent name="$PROJECT_DIR$/homework17/assets/images" />
-      <recent name="$PROJECT_DIR$/homework20" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/homework17/assets/images/icons" />
@@ -138,7 +100,7 @@
       <workItem from="1768497928869" duration="76000" />
       <workItem from="1768837373457" duration="20822000" />
       <workItem from="1769383012464" duration="9220000" />
-      <workItem from="1769436400682" duration="8556000" />
+      <workItem from="1769436400682" duration="9527000" />
     </task>
     <servers />
   </component>
