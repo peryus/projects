@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sign Up</title>
+  <link rel="stylesheet" href="../assets/css/output.css">
+
+</head>
+
+<body class="bg-white text-neutral-900">
+
+<div class="min-h-screen grid grid-cols-1 md:grid-cols-2">
+
+    <img src="../assets/images/site/chair.jpg" alt="Chair" class="w-full max-w-xl object-contain">
+  <div class="flex items-center justify-center p-8 md:p-16">
+    <div class="w-full max-w-md">
+      <h1 class="text-4xl font-semibold mb-4">Sign up</h1>
+      <p class="text-neutral-500 mb-10">
+        Already have an account?
+        <a href="#" class="text-green-600 font-medium">Sign in</a>
+      </p>
+
+      <form class="space-y-8">
+        <div>
+          <input type="text" placeholder="Your name" class="w-full border-b border-neutral-300 py-3 focus:outline-none focus:border-black">
+        </div>
+        <div>
+          <input type="text" placeholder="Username" class="w-full border-b border-neutral-300 py-3 focus:outline-none focus:border-black">
+        </div>
+
+        <div>
+          <input type="email" placeholder="Email address" class="w-full border-b border-neutral-300 py-3 focus:outline-none focus:border-black">
+        </div>
+        <div class="relative">
+          <input type="password" placeholder="Password"
+                 class="w-full border-b border-neutral-300 py-3 focus:outline-none focus:border-black">
+          <div class="absolute right-0 top-1/2 -translate-y-1/2 text-neutral-400">
+          </div>
+        </div>
+
+        <div class="flex items-center gap-3 text-sm text-neutral-600">
+          <input type="checkbox" class="w-4 h-4 border-neutral-400">
+          <span>
+              I agree with <span class="font-semibold">Privacy Policy</span> and
+              <span class="font-semibold">Terms of Use</span>
+            </span>
+        </div>
+
+        <button
+                class="w-full bg-black text-white py-4 rounded-md hover:opacity-90 transition">
+          Sign Up
+        </button>
+
+      </form>
+
+    </div>
+  </div>
+
+</div>
+
+</body>
+</html>
