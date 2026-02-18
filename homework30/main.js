@@ -32,8 +32,8 @@ function isValidUrl(url) {
  const regex = /^https?:\/\/[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)+$/;
  return regex.test(url);
 }
-// console.log(isValidUrl('https://www.example.com')) // Повинно вивести: true
-// console.log(isValidUrl('invalid-url'))             // Повинно вивести: false
+console.log(isValidUrl('https://www.example.com')) // Повинно вивести: true
+console.log(isValidUrl('invalid-url'))             // Повинно вивести: false
 
 // Експорт функції для використання та тестування
 export { isValidEmail, isValidUrl }
