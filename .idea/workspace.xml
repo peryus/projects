@@ -5,11 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d6a96de-9b07-47b2-9930-ca7c84fda3da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework26/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/X?O/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/X?O/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/X?O/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework27/slider/img/toyota-bz4x-1280x960-four.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework27/slider/img/toyota-bz4x-1280x960-one.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework27/slider/img/toyota-bz4x-1280x960-three.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework27/slider/img/toyota-bz4x-1280x960-two.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework27/slider/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework27/slider/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework27/slider/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework26/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework26/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework26/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework26/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/gulpfile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework6/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework7/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework7/css/normalize.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +30,8 @@
       <list>
         <option value="SCSS File" />
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -47,7 +56,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/stanislav/projects/homework26&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/stanislav/projects/homework27/slider/img&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -58,18 +67,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homework27/slider/img" />
       <recent name="$PROJECT_DIR$/homework26" />
       <recent name="$PROJECT_DIR$/homework21" />
       <recent name="$PROJECT_DIR$/homework17/assets/images/site" />
       <recent name="$PROJECT_DIR$/homework17/assets/images/items" />
-      <recent name="$PROJECT_DIR$/homework17/assets/images/icons" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homework27/slider" />
       <recent name="$PROJECT_DIR$/homework17/assets/images/icons" />
       <recent name="$PROJECT_DIR$/homework17/assets/images/items" />
       <recent name="$PROJECT_DIR$/homework17/assets/images/site" />
       <recent name="$PROJECT_DIR$/homework17/assets/images" />
-      <recent name="$PROJECT_DIR$/homework20" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -110,6 +119,8 @@
       <workItem from="1771458864240" duration="28000" />
       <workItem from="1771458924081" duration="16000" />
       <workItem from="1772052685882" duration="6789000" />
+      <workItem from="1772473841107" duration="8362000" />
+      <workItem from="1772486717423" duration="20067000" />
     </task>
     <servers />
   </component>

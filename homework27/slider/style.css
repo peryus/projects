@@ -1,0 +1,67 @@
+* {
+  box-sizing: border-box;
+}
+.slider {
+  width: 900px;
+  position: relative;
+  user-select: none;
+  touch-action: pan-y;
+}
+.slider-viewport {
+  width: 100%;
+  overflow-x: hidden;
+  aspect-ratio: 4/3;
+
+}
+.slider-line {
+  display: flex;
+  flex-wrap: nowrap;
+  height: 100%;
+
+}
+.slow-switch {
+  transition: transform 0.5s;
+}
+
+.slider-nav {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  background-color: white;
+  opacity: 0.1;
+  font-size: 80px;
+  width: 8%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.slider-nav:hover {
+  opacity: 0.2;
+}
+.slider-nav.slider-left {
+  left: 0;
+}
+.slider-nav.slider-right {
+  right: 0;
+}
+
+.dot {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: gray;
+  cursor: pointer;
+  opacity: 0.6;
+}
+.dot.active {
+  background: black;
+}
+.slider-dots {
+  position: absolute;
+  bottom: 15px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 30px;
+}

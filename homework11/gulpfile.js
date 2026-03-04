@@ -44,11 +44,11 @@ const PATH = {
   htmlAllFiles: './*.html',
   jsFolder: './assets/js/',
   jsAllFiles: './assets/js/**/*.js',
-  imgFolder: './assets/images/'
+  imgFolder: './assets/img/'
 }
 
 const SEARCH_IMAGE_REGEXP = /url\(['"]?.*\/images\/(.*?)\.(png|jpg|gif|webp|svg)['"]?\)/g
-const REPLACEMENT_IMAGE_PATH = 'url(../images/$1.$2)'
+const REPLACEMENT_IMAGE_PATH = 'url(../img/$1.$2)'
 
 const PLUGINS = [
   dc({ discardComments: true }),
