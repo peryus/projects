@@ -5,21 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d6a96de-9b07-47b2-9930-ca7c84fda3da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework28/slider/CoolSlider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework28/slider/img/other_one.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework28/slider/img/other_three.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework28/slider/img/other_two.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework28/slider/img/toyota-bz4x-1280x960-four.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework28/slider/img/toyota-bz4x-1280x960-one.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework28/slider/img/toyota-bz4x-1280x960-three.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework28/slider/img/toyota-bz4x-1280x960-two.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework28/slider/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework28/slider/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework28/slider/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework28/slider/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework29/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework29/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework29/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework29/main.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework36/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework36/main 2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework36/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework36/script.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework6/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +26,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="SCSS File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="TypeScript File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -51,28 +48,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/stanislav/projects/homework28/slider/img",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/stanislav/projects/homework29&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/stanislav/projects/homework36/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homework29" />
+      <recent name="$PROJECT_DIR$/homework36" />
       <recent name="$PROJECT_DIR$/homework28/slider/img" />
       <recent name="$PROJECT_DIR$/homework28" />
       <recent name="$PROJECT_DIR$/homework27/slider/img" />
-      <recent name="$PROJECT_DIR$/homework26" />
-      <recent name="$PROJECT_DIR$/homework21" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/homework28/slider" />
@@ -126,6 +124,9 @@
       <workItem from="1772648670790" duration="41000" />
       <workItem from="1772649027632" duration="2007000" />
       <workItem from="1772720233941" duration="23346000" />
+      <workItem from="1773613205339" duration="3002000" />
+      <workItem from="1773784196127" duration="4516000" />
+      <workItem from="1774011433767" duration="9732000" />
     </task>
     <servers />
   </component>
