@@ -1,6 +1,24 @@
 # macOS
 .DS_Store
+
 # IDE
 .idea/
-*.iml.idea/
-.node_module/
+*.iml
+.vscode/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Tests / coverage
+coverage/
+
+# Environment files
+.env
+.env.local
+
+# Build
+dist/
+build/
