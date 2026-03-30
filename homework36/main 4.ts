@@ -16,7 +16,7 @@ console.log('#19. TypeScript homework example file')
  */
 
 function sumArray() {
-
+  // code here
 }
 
 // Вивід до консолі для демонстрації
