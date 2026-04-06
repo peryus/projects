@@ -1,6 +1,6 @@
 # macOS
-.DS_Store
+DS_Store
 # IDE
 .idea/
 *.iml.idea/
-.node_module/
+node_module/
