@@ -5,113 +5,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d6a96de-9b07-47b2-9930-ca7c84fda3da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework42/axios/src/api/todosAdapter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework42/axios/src/components/TodoApp/TodoApp.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework42/axios/src/components/TodoApp/TodoApp.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework42/axios/src/components/TodoForm/TodoForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework42/axios/src/components/TodoForm/TodoForm.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework42/axios/src/components/TodoItem/TodoItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework42/axios/src/components/TodoItem/TodoItem.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework43/react-router/src/components/About.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework43/react-router/src/components/Contact.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework43/react-router/src/components/Home.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework44/ContextHW/src/api/UserAdapter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework44/ContextHW/src/api/getUserFromServer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework44/ContextHW/src/components/MainContent.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework44/ContextHW/src/components/UserCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework44/ContextHW/src/components/UserSection.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework44/ContextHW/src/context/AppContext.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework45/context.redux/src/api/UserAdapter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework45/context.redux/src/api/getUserFromServer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework45/context.redux/src/components/Layout.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework45/context.redux/src/components/MainContent.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework45/context.redux/src/components/UserCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework45/context.redux/src/components/UserSection.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework45/context.redux/src/redux/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework45/context.redux/src/redux/themeSlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework45/context.redux/src/redux/userSlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework46/redux.toolkit.thunk/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework46/redux.toolkit.thunk/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework46/redux.toolkit.thunk/eslint.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework46/redux.toolkit.thunk/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework46/redux.toolkit.thunk/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework46/redux.toolkit.thunk/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework46/redux.toolkit.thunk/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework46/redux.toolkit.thunk/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework46/redux.toolkit.thunk/src/api/UserAdapter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework46/redux.toolkit.thunk/src/api/getUserFromServer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework46/redux.toolkit.thunk/src/components/Layout.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework46/redux.toolkit.thunk/src/components/MainContent.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework46/redux.toolkit.thunk/src/components/UserCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework46/redux.toolkit.thunk/src/components/UserSection.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework46/redux.toolkit.thunk/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework46/redux.toolkit.thunk/src/main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework46/redux.toolkit.thunk/src/redux/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework46/redux.toolkit.thunk/src/redux/themeSlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework46/redux.toolkit.thunk/src/redux/userSlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework46/redux.toolkit.thunk/vite.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework47/formik/src/components/Form.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework47/formik/src/components/Input.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework48/material_ui/public/images/alhambra-2c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework48/material_ui/public/images/alhambra-3c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework48/material_ui/src/components/Card.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework48/material_ui/src/components/Form.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework48/material_ui/src/components/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework49/vitest/src/components/UserProfile.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework49/vitest/src/components/UserProfile.test.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework50/react-memo/src/components/ProductItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework50/react-memo/src/components/ProductList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/icons/2x2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/icons/3x3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/icons/Vector.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/icons/call.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/icons/close.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/icons/delivery.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/icons/facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/icons/horiz.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/icons/instagram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/icons/lock.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/icons/money.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/icons/sale.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/icons/search 02.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/icons/shoppingbag.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/icons/vert.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/icons/youtube.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/items/bamboobasket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/items/beigetablelamp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/items/cozysofa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/items/loveseatsofa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/items/off_whitepillow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/items/tablelamp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/items/whitedr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/site/7ways.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/site/bedroom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/site/chair.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/site/decor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/site/footersjoin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/site/hero.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/site/hunders.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/site/kitchen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/site/kitchenorg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/site/livingroom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/public/assets/images/site/shophero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/src/components/ActiveOrNo.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/src/components/Articles.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/src/components/CartModal.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/src/components/Features.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/src/components/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/src/components/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/src/components/ProductCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/src/components/PromoBar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/src/components/SaleBanner.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/src/data/products.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/src/pages/HomePage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/src/pages/ShopPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework51/react-shop/src/pages/SignUpPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/icons/2x2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/icons/3x3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/icons/Vector.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/icons/call.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/icons/close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/icons/delivery.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/icons/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/icons/horiz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/icons/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/icons/lock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/icons/money.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/icons/sale.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/icons/search 02.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/icons/shoppingbag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/icons/vert.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/icons/youtube.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/items/bamboobasket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/items/beigetablelamp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/items/cozysofa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/items/loveseatsofa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/items/off_whitepillow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/items/tablelamp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/items/whitedr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/site/7ways.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/site/bedroom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/site/chair.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/site/decor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/site/footersjoin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/site/hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/site/hunders.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/site/kitchen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/site/kitchenorg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/site/livingroom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/public/assets/images/site/shophero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/api/ordersApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/api/productsApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/app/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/components/ActiveOrNo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/components/Articles.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/components/CartModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/components/Features.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/components/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/components/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/components/ProductCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/components/PromoBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/components/SaleBanner.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/data/products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/features/cart/cartSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/features/orders/ordersSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/features/products/productsSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/pages/HomePage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/pages/ShopPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/src/pages/SignUpPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework52/react-shop.redux/vite.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/X?O/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/X?O/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/X?O/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/homework6/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,40 +107,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/stanislav/projects/homework51/react-shop/public/assets&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.build.executor&quot;: &quot;Run&quot;,
-    &quot;npm.dev (1).executor&quot;: &quot;Run&quot;,
-    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/stanislav/projects/homework36/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/stanislav/projects",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.build.executor": "Run",
+    "npm.dev (1).executor": "Run",
+    "npm.dev.executor": "Run",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "ts.external.directory.path": "/Users/stanislav/projects/homework36/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/homework51/react-shop/public/assets" />
       <recent name="$PROJECT_DIR$/homework48/material_ui/public/images" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/homework37" />
       <recent name="$PROJECT_DIR$/homework37/src/movies" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homework52/react-shop.redux/src" />
       <recent name="$PROJECT_DIR$/homework51/react-shop/public/assets/images" />
       <recent name="$PROJECT_DIR$/homework42/axios/src/components/TodoApp" />
       <recent name="$PROJECT_DIR$/homework37/src" />
       <recent name="$PROJECT_DIR$/homework34/src/assets/images" />
-      <recent name="$PROJECT_DIR$/homework34" />
     </key>
   </component>
   <component name="RunManager" selected="npm.dev (1)">
@@ -310,6 +268,7 @@
       <workItem from="1785700785250" duration="1149000" />
       <workItem from="1785758002459" duration="11426000" />
       <workItem from="1785780269012" duration="2204000" />
+      <workItem from="1785793504955" duration="3559000" />
     </task>
     <servers />
   </component>

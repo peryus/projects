@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.ReactModal__Body--open {
+  overflow: hidden;
+}
+
+.react-datepicker-wrapper {
+  width: 100%;
+}
