@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+button {
+  padding: 10px 18px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  background-color: #058a28;
+  color: white;
+}
+
+.app {
+  min-height: 100vh;
+  padding: 40px;
+  transition:
+          background-color 0.3s,
+          color 0.3s;
+}
+
+.app.light {
+  background-color: #f3f4f6;
+  color: #222;
+}
+
+.app.dark {
+  background-color: #1f2937;
+  color: white;
+}
+
+.user-section {
+  margin-top: 30px;
+}
+
+.user-card {
+  max-width: 450px;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: white;
+  color: #222;
+  box-shadow: 0 4px 12px rgb(0 0 0 / 15%);
+}
+
+.user-card h3 {
+  margin-top: 0;
+}
+
+.error {
+  color: #dc2626;
+}

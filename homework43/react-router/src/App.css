@@ -1,0 +1,45 @@
+.app {
+  width: 100%;
+  min-height: 100vh;
+}
+
+.navigation {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  padding: 20px;
+  background-color: #242424;
+}
+
+.nav-link {
+  padding: 10px 18px;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  transition:
+          background-color 0.2s,
+          color 0.2s;
+}
+
+.nav-link:hover {
+  background-color: #3d3d3d;
+}
+
+.nav-link.active {
+  color: #242424;
+  background-color: white;
+}
+
+.page {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.page h1 {
+  margin-bottom: 12px;
+  font-size: 40px;
+}
+
+.page p {
+  font-size: 20px;
+}

@@ -1,0 +1,74 @@
+.todoItem {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 20px;
+  align-items: center;
+  padding: 16px;
+  border: 1px solid #e1e5e9;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+
+.todoTitle {
+  color: #202124;
+  overflow-wrap: anywhere;
+}
+
+.completed {
+  background-color: #f0fdf4;
+}
+
+.completed .todoTitle {
+  color: #777777;
+  text-decoration: line-through;
+}
+
+.actions {
+  display: flex;
+  gap: 8px;
+}
+
+.toggleButton,
+.deleteButton {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 9px 12px;
+  border: none;
+  border-radius: 7px;
+  color: #ffffff;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.toggleButton {
+  background-color: #0ea5e9;
+}
+
+.toggleButton:hover {
+  background-color: #0284c7;
+}
+
+.deleteButton {
+  background-color: #ef4444;
+}
+
+.deleteButton:hover {
+  background-color: #dc2626;
+}
+
+@media (max-width: 600px) {
+  .todoItem {
+    grid-template-columns: 1fr;
+  }
+
+  .actions {
+    width: 100%;
+  }
+
+  .toggleButton,
+  .deleteButton {
+    flex: 1;
+    justify-content: center;
+  }
+}
