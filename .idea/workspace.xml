@@ -5,102 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d6a96de-9b07-47b2-9930-ca7c84fda3da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework55/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework56/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework57/pages.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework57/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework57/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework57/template.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework58/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework59/files/source.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework59/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework60/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework60/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework60/src/controllers/articlesController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework60/src/controllers/usersController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework60/src/routes/articles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework60/src/routes/users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework61/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework61/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework61/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework61/src/controllers/articlesController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework61/src/controllers/categoriesController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework61/src/controllers/ordersController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework61/src/controllers/productsController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework61/src/controllers/profileController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework61/src/controllers/usersController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework61/src/middlewares/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework61/src/middlewares/errorHandler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework61/src/middlewares/logger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework61/src/middlewares/validateUser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework61/src/routes/articles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework61/src/routes/categories.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework61/src/routes/orders.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework61/src/routes/products.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework61/src/routes/profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework61/src/routes/users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework62/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework62/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework62/views/article-details.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework62/views/articles.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework62/views/user-details.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework62/views/users.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework63/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework63/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework63/articles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework63/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework63/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework63/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework63/public/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework63/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework63/users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework63/views/article-details.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework63/views/articles.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework63/views/user-details.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework63/views/users.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework64/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework64/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework64/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework65/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework65/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework65/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework65/db.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework65/services/users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework66/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework66/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework66/db.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework66/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework66/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework66/services/users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework67/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework67/back/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework67/back/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework67/back/db.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework67/front/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework67/front/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework67/front/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework68/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework68/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework68/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework68/back/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework68/back/db.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework68/docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework68/front/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework68/front/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework68/front/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework68/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework68/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework69/commands.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework70/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework70/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework70/db.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework70/models/Comments.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework70/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework70/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework70/services/users.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework11/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework11/gulpfile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework6/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework70/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework70/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework70/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework70/db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework70/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/homework70/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework70/services/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework70/services/users.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,27 +47,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.localhost:3000.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/stanislav/projects",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.build.executor": "Run",
-    "npm.dev (1).executor": "Run",
-    "npm.dev.executor": "Run",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "ts.external.directory.path": "/Users/stanislav/projects/homework36/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.localhost:3000.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/stanislav/projects&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.build.executor&quot;: &quot;Run&quot;,
+    &quot;npm.dev (1).executor&quot;: &quot;Run&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/stanislav/projects/homework36/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -308,7 +218,8 @@
       <workItem from="1785798377831" duration="265000" />
       <workItem from="1785858426996" duration="1252000" />
       <workItem from="1785861359228" duration="1528000" />
-      <workItem from="1786231297987" duration="28358000" />
+      <workItem from="1786231297987" duration="28495000" />
+      <workItem from="1786296636303" duration="740000" />
     </task>
     <servers />
   </component>
