@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d6a96de-9b07-47b2-9930-ca7c84fda3da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/homework71/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework71/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework71/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework71/models/Comments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework71/models/Movie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework71/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework71/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework71/services/comments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework71/services/movies.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework6/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework70/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework70/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework70/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework70/db.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework70/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/homework70/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework70/services/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework70/services/users.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,6 +225,7 @@
       <workItem from="1785861359228" duration="1528000" />
       <workItem from="1786231297987" duration="28495000" />
       <workItem from="1786296636303" duration="740000" />
+      <workItem from="1786298105561" duration="2387000" />
     </task>
     <servers />
   </component>
