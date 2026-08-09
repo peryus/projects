@@ -1,0 +1,15 @@
+doctype html
+html
+    head
+        link(rel="icon" href="/favicon.ico")
+        link(rel="stylesheet" href="/styles.css")
+        title Users
+
+    body(class=theme)
+        h1 Users
+        p Current theme: #{theme}
+
+        ul
+          each user in users
+              li
+                  a(href=`/users/${user.id}`) #{user.name}

@@ -39,7 +39,7 @@ const PATH = {
   pugRootFile: './src/templates/index.pug',
   cssFolder: './assets/css/',
   cssAllFiles: './assets/css/*.css',
-  cssRootFile: './assets/css/style.css',
+  cssRootFile: './assets/css/styles.css',
   htmlFolder: './',
   htmlAllFiles: './*.html',
   jsFolder: './assets/js/',

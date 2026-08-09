@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Movies</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+
+<body>
+
+<div id="pagination">
+
+  <label>
+    Items per page:
+
+    <input
+            type="number"
+            id="perPageInput"
+            value="10"
+            min="1"
+            max="100"
+            style="width: 60px"
+    />
+  </label>
+
+  <span id="pageInfo">Page 1 of ?</span>
+
+  <span id="rangeInfo">Documents 1–10 of ?</span>
+
+  <button id="prevBtn">&larr; Prev</button>
+
+  <button id="nextBtn">Next &rarr;</button>
+
+</div>
+
+<div id="movies">
+  Loading...
+</div>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
